@@ -1,0 +1,24 @@
+body {
+    margin: 40px;
+}
+.menu {
+    grid-area: menu;
+}
+.article {
+    grid-area: article;
+}
+.header {
+    grid-area: header;
+}
+.footer {
+    grid-area: footer;
+}
+.site {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 120px 120px 120px;
+    grid-template-areas: 
+    "header header header"
+    "menu article article"
+    "footer footer footer";
+}

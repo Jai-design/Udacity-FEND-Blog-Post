@@ -1,0 +1,70 @@
+.title {
+    font-family: "Oswald", sans-serif;
+    font-size: 1.5em;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: bold;
+    color: lightskyblue;
+}
+.menu {
+    font-family: "Open Sans";
+    font-size: 2em;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.article h2 {
+        font-family: "Open Sans" sans-serif;
+        font-optical-sizing: auto;
+        font-size: 2em;
+        font-weight: 700;
+        font-style: bold;
+        color: rgb(244, 198, 206);
+}
+.article p {
+    font-family: "roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 1.5em;
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(248, 154, 248);
+}
+a {
+    color: rgb(51, 198, 198);
+    text-decoration: wavy;
+}
+a:hover {
+    color: turquoise;
+}
+li {
+    font-family: "roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 1em;
+    font-weight: 300;
+    font-style: italic;
+    color: rgb(248, 154, 248);
+}
+button {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 1em;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(51, 198, 198);
+}
+figcaption {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 1em;
+    font-weight: 300;
+    font-style: italic;
+    color: grey;
+}
+.footer {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 1em;
+    font-weight: 200;
+    font-style: normal;
+    color: grey
+}
